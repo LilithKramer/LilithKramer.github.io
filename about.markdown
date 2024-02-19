@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lilith Kramer received her Masters of Science at the University of Utrecht in 2015. Upon finishing her Masters, she worked at Deltares in Delft as a researcher and consultant on freshwater ecology and water quality with a focus on modelling. In 2019 she started her PhD at the Netherlands Institute of Ecology. The topic of her PhD is a social-ecological perspective on nutrient management in surface water networks.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Check out my NIOO page at [NIOO.KNAW.nl][nioo-page].
+[nioo-page]: https://nioo.knaw.nl/nl/employees/lilith-kramer 
