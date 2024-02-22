@@ -1,9 +1,10 @@
 ---
-title: Welcome
 layout: home
 ---
 
-You can find my (green) open access publication's and my CV here. 
+Welcome visitor!
+
+You can find my (green) open access publication's and my CV on this website. 
 
 Check out my NIOO page at [NIOO.KNAW.nl][nioo-page].
 
