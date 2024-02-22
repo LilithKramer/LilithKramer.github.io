@@ -4,4 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-add download link here
+some text and [download this test txt][1]
+
+[1]:{{ site.url }}/Test.txt
